@@ -1,0 +1,93 @@
+/* TITULOS */
+
+.introduccion {
+    background-color: rgba(100, 113, 113, 0.685);
+    width: 50%;
+}
+
+.introduccion1 {
+    background-color: rgba(179, 129, 37, 0.678);
+    width: 100%;
+    padding-left: 50rem;
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.contenido {
+    border-left: 1rem solid hwb(0 0% 100%);
+    background-color: rgb(245, 156, 78);
+    padding: 1rem;
+    width: 50%;
+    font-family: cursive;
+    font-weight: 400;
+}
+
+.contenido2 {
+    border-left: 1rem solid hwb(0 0% 100%);
+    background-color: rgb(245, 156, 78);
+    padding: 1rem;
+    width: 50%;
+    font-family: cursive;
+    font-weight: 400;
+}
+
+.contenido3 {
+    border-left: 1rem solid hwb(0 0% 100%);
+    background-color: rgb(245, 156, 78);
+    padding: 1rem;
+    width: 50%;
+    font-family: cursive;
+    font-weight: 400;
+}
+
+
+/* BOTONERA PRINCIPAL */
+
+.botonera_principal {
+    border-left: 1rem solid rgb(172, 16, 16);
+    background-color: rgb(216, 197, 173);
+    padding: 2rem;
+}
+
+.botonera_principal ul {
+    list-style: none;
+}
+
+.botonera_principal li {
+    display: inline-block;
+    padding: 1rem;
+}
+
+.botonera_principal a {
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+    padding-left: 15rem;
+}
+
+
+/* --------- CONTACTO -------- */
+
+.contacto_contenido {
+    margin: 1rem;
+    padding: 1rem;
+    width: 80%;
+    background-color: rgb(162, 162, 162);
+}
+
+.contacto_input {
+    width: 90%;
+    display: block;
+    padding: 1rem;
+    margin-bottom: 0.8rem;
+}
+
+.fin_contacto {
+    background-color: rgba(216, 197, 173);
+    padding: 1rem;
+    border-top: 1rem solid rgb(0, 0, 0);
+    font-family: cursive;
+}
